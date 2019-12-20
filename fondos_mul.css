@@ -1,0 +1,16 @@
+html{
+    background-image: url(images/fondo.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+}
+.contain{
+    width: 400px;
+    height: 300px;
+    border: 5px solid red;
+    margin: auto;
+    background-image: url("images/lion.jpg"),url("images/zebra.png");
+    background-repeat: no-repeat,repeat;
+    background-size: 50%,cover;
+    background-position: bottom left,0;
+}

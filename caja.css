@@ -1,0 +1,39 @@
+.cabeza{
+    text-align: center;
+    clear: both;
+}
+.barra{
+    position: relative;
+    /*background-color: orange;*/
+    width: 200px;
+    height: 600px;
+}
+.barraP{
+    position: absolute;
+    top: 0;   
+    left: 20px;
+    /*background-color: red;*/
+    height: 100%;
+}
+.pieP{
+    position: fixed;
+    bottom: 0;
+    /*background-color: aqua;*/
+    width: 100%;
+    height: 100px;
+}
+.contP{
+    position: absolute;
+    width: 150px;
+    height: 80%;
+    /*background-color: chocolate;*/
+    left: 45%;
+  
+}
+.contain{
+    position: fixed;
+    top: 15%;
+    left: 35%;
+    /*background-color: red;*/
+    
+}
