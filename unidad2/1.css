@@ -1,0 +1,6 @@
+.container{
+    background: linear-gradient( Red, black);
+}
+h1{
+    text-shadow: 1px 1px 2px black; 
+}

@@ -1,0 +1,12 @@
+body{
+    background-image: url(images/zebra.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.contain{
+    color: aqua;
+}
+
+.border{
+    border: 10px solid red;
+}
